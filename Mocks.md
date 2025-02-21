@@ -5,10 +5,6 @@ Dear Students,
 
 We are excited to inform you that **mock interviews** will be conducted **tomorrow**! This is a great opportunity to **enhance your technical skills, boost confidence, and get real interview experience** with expert feedback.  
 
-### :date: **Date:** [Insert Date]  
-### :clock9: **Time:** [Insert Time]  
-### :round_pushpin: **Venue:** [Insert Location/Online Link]  
-
 ### :trophy: **Topics to be Covered:**  
 :small_blue_diamond: **HTML & CSS** – Understanding web structure, semantic HTML, and responsive design.  
 :small_blue_diamond: **Git** – Version control, Git commands, branching, and collaboration on GitHub.  
