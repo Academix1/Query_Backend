@@ -13,7 +13,8 @@ We are excited to inform you that **mock interviews** will be conducted **tomorr
 :small_blue_diamond: **FASTAPI** – Developing high-performance APIs using Python, request handling, and authentication.  
 :small_blue_diamond: **React** – Component-based architecture, props, hooks, and state management.  
 :small_blue_diamond: **Python Logicals** – Solving algorithmic and logical problems using Python.  
-:small_blue_diamond: **Cloud Architecture** – Basics of cloud computing, deployment strategies, and scalability.  
+:small_blue_diamond: **Architecture** – 4 Level Architecture. 
+:small_blue_diamond: **Project Explanation** - Complete Your movie-app and ready for Explanation
 
 ### :zap: **Why Attend?**  
 :white_check_mark: Get hands-on **interview experience**  
