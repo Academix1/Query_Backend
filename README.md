@@ -89,27 +89,3 @@ def count_users(db: Session = Depends(get_db)):
 🔹 **Counts the total number of users** in the database.
 
 ---
-
-## ✅ **10. Get Users Using IN Query**
-```python
-@app.get("/users/in")
-def get_users_in(ids: str, db: Session = Depends(get_db)):
-    id_list = [int(i) for i in ids.split(",")]  # Convert "1,2,3" to [1,2,3]
-    return db.query(User).filter(User.id.in_(id_list)).all()
-```
-🔹 Finds users whose **IDs match any value in a list**.
-
----
-
-## ✅ **11. Get Users Created After a Certain Date**
-```python
-from datetime import datetime
-
-@app.get("/users/recent")
-def get_recent_users(since: str, db: Session = Depends(get_db)):
-    since_date = datetime.strptime(since, "%Y-%m-%d")
-    return db.query(User).filter(User.created_at >= since_date).all()
-```
-🔹 Finds users created **on or after a given date**.
-
----
