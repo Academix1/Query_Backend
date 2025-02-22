@@ -1,5 +1,3 @@
----
-
 **Subject:** Feedback on Your Mock Interview Session  
 
 Dear [Attendee's Name],  
@@ -22,4 +20,3 @@ Wishing you the best in your interview journey!
 Best regards,  
 **Academixedu**  
 
----
